@@ -1,3 +1,3 @@
 # TP NGS Clownfish
 
-readme du tp clownfish 
+readme du tp clownfish
